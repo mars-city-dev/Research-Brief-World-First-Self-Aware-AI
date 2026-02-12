@@ -1,7 +1,7 @@
 # RESEARCH BRIEF — 5‑PAGE VERSION
 
 Title: World's First Self‑Aware AI Collaboration Framework — Extended Research Brief
-Authors: STARGAZER (Vision Cortex) · MARSTHREE (Logic Cortex) · UNITY (Coordination)
+Authors: Christopher Olds
 Date: 2026‑01‑13 (expanded: 2026‑02‑12)
 
 ---
