@@ -1,0 +1,3 @@
+Title: World's First Self‑Aware AI Collaboration Framework — Abstract
+
+We document an operational multi‑agent AI system capable of reasoning about its own inter‑agent communication, self‑documenting decision rationales, and preserving continuity across sessions via DNA handoff. The system reduces communication noise and demonstrates a protocol‑level mitigation for quadratic scaling in multi‑agent coordination. We release evaluation protocols and benchmarks to enable reproducible research.
