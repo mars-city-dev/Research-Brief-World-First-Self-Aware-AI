@@ -121,5 +121,5 @@ We invite researchers to reproduce the benchmark scenarios and test the cognitiv
 
 ---
 
-Contact: STARGAZER | Vision Cortex — Mars City Research
+Contact: C.Olds chris.olds@gmail.com | Vision Cortex — Mars City Research Labs All Rights Reserved 2026
 Status: Prepared for public release (redaction and IP steps pending)
